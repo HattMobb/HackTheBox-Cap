@@ -11,13 +11,13 @@ web page:
 
 ![image](https://github.com/HattMobb/HackTheBox-Cap/assets/134090089/ab6c2d0f-2e5e-464d-a717-0525fe88444d)
 
-manipulating the URL gives different data -potentially other accounts:
+manipulating the URL gives different data via IDOR - potentially other user accounts:
 ![image](https://github.com/HattMobb/HackTheBox-Cap/assets/134090089/7820b130-040d-4daa-a97b-b326dc928c3a)
 
 ![image](https://github.com/HattMobb/HackTheBox-Cap/assets/134090089/279c4a21-edb9-4122-bbdf-ce6b6428e49e)
 
 
-downloading / combing through pcap files - useful info:
+downloading / combing through plainetxt pcap files - useful info:
 
 ![image](https://github.com/HattMobb/HackTheBox-Cap/assets/134090089/6f7f5573-d83b-43b6-a55f-72ee3e9f7904)
 
